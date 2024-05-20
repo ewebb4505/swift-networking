@@ -1,9 +1,10 @@
 //
-//  File.swift
+//  WebSocketConnection.swift
 //
 //
 //  Created by Evan Webb on 5/19/24.
 //
+// https://medium.com/@thomsmed/real-time-with-websockets-and-swift-concurrency-8b44a8808d0d
 
 import Foundation
 

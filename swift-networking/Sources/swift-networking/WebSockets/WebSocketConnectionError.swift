@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  WebSocketConnectionError.swift
 //  
 //
 //  Created by Evan Webb on 5/19/24.
